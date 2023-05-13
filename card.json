@@ -4,8 +4,52 @@
             "name": "★★✩✩ **Taylor Swift** Speak Now (Taylor's Version)",
             "image": "https://media.discordapp.net/attachments/1055485183387774996/1106921736743702570/Untitled754_20230513202609.png",
             "theme": "Speak Now (Taylor's Version)",
-            "inv": "★★✩✩ Taylor Swift",
-            "color": "b75bda"
+            "inv": "★★✩✩ Taylor Swift"
+        }
+    ],
+    
+    "HEHP_SL": [
+        {
+            "name": "★✩✩✩ **Heize** HAPPEN",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1106926209067122729/Untitled750_20230513200552.png",
+            "theme": "HAPPEN",
+            "inv": "★✩✩✩ HEIZE"
+        }
+    ],
+    
+    "SCAS_SM": [
+        {
+            "name": "★✩✩✩ **STAYC SUMIN** ASAP",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1106926209067122729/Untitled750_20230513200552.png",
+            "theme": "ASAP",
+            "inv": "★✩✩✩ ASAP"
+        }
+    ],
+    
+    "K1GD_YJ": [
+        {
+            "name": "★✩✩✩ **Kep1er YUJIN** Giddy",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919890025197619/Untitled750_20230513195946.png",
+            "theme": "Giddy",
+            "inv": "★✩✩✩ Giddy"
+        }
+    ],
+    
+    "AEMW_GS": [
+        {
+            "name": "★✩✩✩ **aespa GISELLE** MY World",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919890398494812/Untitled750_20230513133426.png",
+            "theme": "Spicy",
+            "inv": "★★★✩ MY World"
+        }
+    ],
+    
+    "AEMW_GS": [
+        {
+            "name": "★✩✩✩ **BLACKPINK JISOO** BORN PINK",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919890847281202/Untitled750_20230513131553.png",
+            "theme": "Shut Down",
+            "inv": "★★★✩ BORN PINK"
         }
     ]
     
