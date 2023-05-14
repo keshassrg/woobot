@@ -1,55 +1,38 @@
 {
-    "TSSN_SL": [
+
+    "AESC_KR": [
         {
-            "name": "★★✩✩ **Taylor Swift** Speak Now (Taylor's Version)",
-            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106921736743702570/Untitled754_20230513202609.png",
-            "theme": "Speak Now (Taylor's Version)",
-            "inv": "★★✩✩ Taylor Swift"
-        }
-    ],
-    
-    "HEHP_SL": [
-        {
-            "name": "★✩✩✩ **Heize** HAPPEN",
-            "image": "https://media.discordapp.net/attachments/1007991647595929621/1106926209067122729/Untitled750_20230513200552.png",
-            "theme": "HAPPEN",
-            "inv": "★✩✩✩ HEIZE"
-        }
-    ],
-    
-    "SCAS_SM": [
-        {
-            "name": "★✩✩✩ **STAYC SUMIN** ASAP",
-            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919888771104818/Untitled750_20230513202057.png",
-            "theme": "ASAP",
-            "inv": "★✩✩✩ ASAP"
-        }
-    ],
-    
-    "K1GD_YJ": [
-        {
-            "name": "★✩✩✩ **Kep1er YUJIN** Giddy",
-            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919890025197619/Untitled750_20230513195946.png",
-            "theme": "Giddy",
-            "inv": "★✩✩✩ Giddy"
-        }
-    ],
-    
-    "AEMW_GS": [
-        {
-            "name": "★★★✩ **aespa GISELLE** MY World",
-            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919890398494812/Untitled750_20230513133426.png",
+            "name": "★★✩✩✩ **aespa KARINA** Spicy",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107145782404067409/Untitled759_20230514111310.png",
             "theme": "Spicy",
-            "inv": "★★★✩ MY World"
+            "inv": "★★✩✩ Spicy"
         }
     ],
     
-    "BPBP_JS": [
+    "AESC_GS": [
         {
-            "name": "★✩✩✩ **BLACKPINK JISOO** BORN PINK",
-            "image": "https://media.discordapp.net/attachments/1055485183387774996/1106919890847281202/Untitled750_20230513131553.png",
-            "theme": "Shut Down",
-            "inv": "★★★✩ BORN PINK"
+            "name": "★★✩✩ **aespa GISELLE** Spicy",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107145782106275840/Untitled759_20230514111720.png",
+            "theme": "Spicy",
+            "inv": "★★✩✩✩ Spicy"
+        }
+    ],
+    
+    "AESC_WT": [
+        {
+            "name": "★★✩✩ **aespa wINTER** Spicy",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107145781749743716/Untitled759_20230514111742.png",
+            "theme": "Spicy",
+            "inv": "★★✩✩✩ Spicy"
+        }
+    ],
+    
+    "AESC_NN": [
+        {
+            "name": "★★✩✩ **aespa NINGNING** Spicy",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107145781451960452/Untitled759_20230514111754.png",
+            "theme": "Spicy",
+            "inv": "★★✩✩✩ Spicy"
         }
     ]
     
