@@ -95,6 +95,42 @@
             "theme": "O.O",
             "inv": "★✩✩✩✩ O.O"
         }
+    ],
+    
+    "TYGM_SL": [
+        {
+            "name": "★✩✩✩✩ **TAEYEON** Gemini",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107194897083150366/TYGM_SL.png",
+            "theme": "Gemini",
+            "inv": "★✩✩✩ TAEYEON"
+        }
+    ],
+    
+    "TYWE_SL": [
+        {
+            "name": "★★✩✩✩ **TAEYEON** Weekend",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107194896810516530/TYWE_SL.png",
+            "theme": "Weekend",
+            "inv": "★★✩✩ TAEYEON"
+        }
+    ],
+    
+    "TYCC_SL": [
+        {
+            "name": "★★✩✩✩ **TAEYEON** Can't Control Myself",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107194896290426890/TYCC_SL.png",
+            "theme": "Can't Control Myself",
+            "inv": "★★✩✩ TAEYEON"
+        }
+    ],
+    
+    "TYIN_SL": [
+        {
+            "name": "★★✩✩✩ **TAEYEON** INVU",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107194896542089286/TYIN_SL.png",
+            "theme": "INVU",
+            "inv": "★★✩✩ TAEYEON"
+        }
     ]
     
     }
