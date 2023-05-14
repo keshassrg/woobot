@@ -41,6 +41,60 @@
             "name": "★★★★★ **aespa Group Card** Spicy",
             "image": "https://media.discordapp.net/attachments/1090541979559010314/1106981203703255201/Untitled757_20230514002750.png"
         }
+    ],
+    
+"NMOO_HW": [
+        {
+            "name": "★✩✩✩ **NMIXX HAEWON** O.O",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107188019880013844/NMOO_HW.png",
+            "theme": "O.O",
+            "inv": "★✩✩✩✩ O.O"
+        }
+    ],
+    
+    "NMOO_BA": [
+        {
+            "name": "★✩✩✩ **NMIXX BAE** O.O",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107188019628351508/NMOO_BA.png",
+            "theme": "O.O",
+            "inv": "★✩✩✩✩ O.O"
+        }
+    ],
+    
+    "NMOO_JW": [
+        {
+            "name": "★✩✩✩ **NMIXX JIWOO** O.O",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107188019355734056/NMOO_JW.png",
+            "theme": "O.O",
+            "inv": "★✩✩✩✩ O.O"
+        }
+    ],
+    
+    "NMOO_KJ": [
+        {
+            "name": "★✩✩✩ **NMIXX KYUJIN** O.O",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107188019129233488/NMOO_KJ.png",
+            "theme": "O.O",
+            "inv": "★✩✩✩✩ O.O"
+        }
+    ],
+    
+    "NMOO_LL": [
+        {
+            "name": "★✩✩✩ **NMIXX LILY** O.O",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107188018860793887/NMOO_LL.png",
+            "theme": "O.O",
+            "inv": "★✩✩✩✩ O.O"
+        }
+    ],
+    
+    "NMOO_SY": [
+        {
+            "name": "★✩✩✩ **NMIXX SULLYOON** O.O",
+            "image": "https://media.discordapp.net/attachments/1106824075327840276/1107188018567204904/NMOO_SY.png",
+            "theme": "O.O",
+            "inv": "★✩✩✩✩ O.O"
+        }
     ]
     
     }
