@@ -2,7 +2,16 @@
   "wallpapers": [
     {
       "KEP1ER_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1106951810201178142/kep1er_free.png?width=996&height=579",
-      "KEP1ER_TEXT": "`Free` **Kep1er** Background"
+      "KEP1ER_TEXT": "`Free` **Kep1er** Background",
+      
+      "REDVELVET_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1107327923859505272/redvelvet_free.png?width=996&height=579",
+      "REDVELVET_TEXT": "`Free` **Red Velvet** Background",
+      
+      "NCT127_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1107327924257960009/nct127_free.png?width=996&height=579",
+      "NCT127_TEXT": "`Free` **NCT 127** Background"
+      
+      "AESPA_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1107328548026449981/aespa_free.png?width=996&height=579",
+      "AESPA_TEXT": "`Free` **aespa** Background"
       
     }
       ]
