@@ -266,6 +266,95 @@
             "theme": "SO BAD",
             "inv": "★✩✩✩✩ SO BAD"
         }
-    ]
+    ],
     
+    "RVHP_IR": [
+        {
+            "name": "★✩✩✩ **Red Velvet IRENE** Happiness",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349462273232998/RVHP_IR.png",
+            "theme": "Happiness",
+            "inv": "★✩✩✩✩ Happiness"
+        }
+    ],
+    
+    "RVHP_SG": [
+        {
+            "name": "★✩✩✩ **Red Velvet SEULGI** Happiness",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349461904138321/RVHP_SG.png",
+            "theme": "Happiness",
+            "inv": "★✩✩✩✩ Happiness"
+        }
+    ],
+    
+    "RVHP_WD": [
+        {
+            "name": "★✩✩✩ **Red Velvet WENDY** Happiness",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349461635706941/RVHP_WD.png",
+            "theme": "Happiness",
+            "inv": "★✩✩✩✩ Happiness"
+        }
+    ],
+    
+    "RVHP_JO": [
+        {
+            "name": "★✩✩✩ **Red Velvet JOY** Happiness",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349461274988685/RVHP_JO.png",
+            "theme": "Happiness",
+            "inv": "★✩✩✩✩ Happiness"
+        }
+    ],
+    
+    "RVHP_YR": [
+        {
+            "name": "★✩✩✩ **Red Velvet YERI** Happiness",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349460968812624/RVHP_YR.png",
+            "theme": "Happiness",
+            "inv": "★✩✩✩✩ Happiness"
+        }
+    ],
+ 
+"RVBD_IR": [
+        {
+            "name": "★★✩✩ **Red Velvet IRENE** Birthday",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349458972315688/RVBD_IR.png",
+            "theme": "Birthday",
+            "inv": "★★✩✩✩ Birthday"
+        }
+    ],
+    
+    "RVBD_SG": [
+        {
+            "name": "★★✩✩ **Red Velvet SEULGI** Birthday",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349459286896700/RVBD_SG.png",
+            "theme": "Birthday",
+            "inv": "★★✩✩✩ Birthday"
+        }
+    ],
+    
+    "RVBD_WD": [
+        {
+            "name": "★★✩✩ **Red Velvet WENDY** Birthday",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349459601461288/RVBD_WD.png",
+            "theme": "Birthday",
+            "inv": "★★✩✩✩ Birthday"
+        }
+    ],
+    
+    "RVBD_JO": [
+        {
+            "name": "★★✩✩ **Red Velvet JOY** Birthday",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349460230615172/RVBD_JO.png",
+            "theme": "Birthday",
+            "inv": "★★✩✩✩ Birthday"
+        }
+    ],
+    
+    "RVBD_YR": [
+        {
+            "name": "★★✩✩ **Red Velvet YERI** Birthday",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107349460629065818/RVBD_YR.png",
+            "theme": "Birthday",
+            "inv": "★★✩✩✩ Birthday"
+        }
+    ]
     }
