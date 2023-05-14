@@ -212,6 +212,60 @@
             "theme": "Sticker",
             "inv": "★★✩✩✩ Sticker"
         }
+    ],
+    
+    "SCSB_SM": [
+        {
+            "name": "★✩✩✩ **STAYC SUMIN** SO BAD",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107295410202095676/SCSB_SM.png",
+            "theme": "SO BAD",
+            "inv": "★✩✩✩✩ SO BAD"
+        }
+    ],
+    
+    "SCSB_SI": [
+        {
+            "name": "★✩✩✩ **STAYC SIEUN** SO BAD",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107295409895907378/SCSB_SI.png",
+            "theme": "SO BAD",
+            "inv": "★✩✩✩✩ SO BAD"
+        }
+    ],
+    
+    "SCSB_IS": [
+        {
+            "name": "★✩✩✩ **STAYC ISA** SO BAD",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107295409598115951/SCSB_IS.png",
+            "theme": "SO BAD",
+            "inv": "★✩✩✩✩ SO BAD"
+        }
+    ],
+    
+    "SCSB_SE": [
+        {
+            "name": "★✩✩✩ **STAYC SEEUN** SO BAD",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107295409249984604/SCSB_SE.png",
+            "theme": "SO BAD",
+            "inv": "★✩✩✩✩ SO BAD"
+        }
+    ],
+    
+    "SCSB_YO": [
+        {
+            "name": "★✩✩✩ **STAYC YOON** SO BAD",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107295408973164554/SCSB_YO.png",
+            "theme": "SO BAD",
+            "inv": "★✩✩✩✩ SO BAD"
+        }
+    ],
+    
+    "SCSB_J": [
+        {
+            "name": "★✩✩✩ **STAYC J** SO BAD",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1107295408629223474/SCSB_J.png",
+            "theme": "SO BAD",
+            "inv": "★✩✩✩✩ SO BAD"
+        }
     ]
     
     }
