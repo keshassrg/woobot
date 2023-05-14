@@ -131,6 +131,87 @@
             "theme": "INVU",
             "inv": "★★✩✩ TAEYEON"
         }
+    ],
+    
+    "N1ST_TY": [
+        {
+            "name": "★★✩✩ **NCT 127 TAEYONG** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229544714350602/Untitled759_20230514113006.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_TA": [
+        {
+            "name": "★★✩✩ **NCT 127 TAEIL** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229542990499911/Untitled759_20230514165432.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_JN": [
+        {
+            "name": "★★✩✩ **NCT 127 JOHNNY** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229543539933284/Untitled759_20230514114835.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_YT": [
+        {
+            "name": "★★✩✩ **NCT 127 YUTA** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229544219410504/Untitled759_20230514114630.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_DY": [
+        {
+            "name": "★★✩✩ **NCT 127 DOYOUNG** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229543787417721/Untitled759_20230514114805.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+     "N1ST_JH": [
+        {
+            "name": "★★✩✩ **NCT 127 JAEHYUN** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229544475283466/Untitled759_20230514114511.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_JW": [
+        {
+            "name": "★★✩✩ **NCT 127 JUNGWOO** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107230134999732274/Untitled759_20230514165710.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_MA": [
+        {
+            "name": "★★✩✩ **NCT 127 MARK** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229544005513216/Untitled759_20230514114732.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
+    ],
+    
+    "N1ST_HC": [
+        {
+            "name": "★★✩✩ **NCT 127 HAECHAN** Sticker",
+            "image": "https://media.discordapp.net/attachments/1007991647595929621/1107229543275704330/Untitled759_20230514165404.png",
+            "theme": "Sticker",
+            "inv": "★★✩✩✩ Sticker"
+        }
     ]
     
     }
