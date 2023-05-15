@@ -356,5 +356,50 @@
             "theme": "Birthday",
             "inv": "★★✩✩✩ Birthday"
         }
+    ],
+    
+    "LSUN_SK": [
+        {
+            "name": "★★✩✩ **LE SSERAFIM SAKURA** UNFORGIVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107654868325384295/LSUN_SK.png",
+            "theme": "UNFORGIVEN",
+            "inv": "★★✩✩✩ UNFORGIVEN"
+        }
+    ],
+    
+    "LSUN_KC": [
+        {
+            "name": "★★✩✩ **LE SSERAFIM KIM CHAEWON** UNFORGIVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107654867859812453/LSUN_KC.png",
+            "theme": "UNFORGIVEN",
+            "inv": "★★✩✩✩ UNFORGIVEN"
+        }
+    ],
+    
+    "LSUN_HY": [
+        {
+            "name": "★★✩✩ **LE SSERAFIM HUH YUNJIN** UNFORGIVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107654868799344650/LSUN_HY.png",
+            "theme": "UNFORGIVEN",
+            "inv": "★★✩✩✩ UNFORGIVEN"
+        }
+    ],
+    
+    "LSUN_KZ": [
+        {
+            "name": "★★✩✩ **LE SSERAFIM KAZUHA** UNFORGIVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107654869336207360/LSUN_KZ.png",
+            "theme": "UNFORGIVEN",
+            "inv": "★★✩✩✩ UNFORGIVEN"
+        }
+    ],
+    
+    "LSUN_HE": [
+        {
+            "name": "★★✩✩ **LE SSERAFIM HONG EUNCHAE** UNFORGIVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107654869759836170/LSUN_HC.png",
+            "theme": "UNFORGIVEN",
+            "inv": "★★✩✩✩ UNFORGIVEN"
+        }
     ]
     }
