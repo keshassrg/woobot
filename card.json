@@ -687,6 +687,98 @@
             "theme": "WA DA DA",
             "inv": "★★✩✩✩ WA DA DA"
         }
+    ],
+
+"K1WD_HK": [
+        {
+            "name": "★✩✩✩ **Kep1er HIKARU** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743788496683068/woobot_template_20230518210912.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+
+"TWIC_NY": [
+        {
+            "name": "★★✩✩ **TWICE NAYEON** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681476981555312/woobot_template_20230515224753.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+"TWIC_JY": [
+        {
+            "name": "★★✩✩ **TWICE JEONGYEON** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681477291941938/woobot_template_20230515224759.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+"TWIC_MO": [
+        {
+            "name": "★★✩✩ **TWICE MOMO** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681477598117938/woobot_template_20230515224807.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+"TWIC_SN": [
+        {
+            "name": "★★✩✩ **TWICE SANA** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681477963038760/woobot_template_20230515224812.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+"TWIC_JH": [
+        {
+            "name": "★★✩✩ **TWICE JIHYO** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681478239854662/woobot_template_20230515224820.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+
+"TWIC_MN": [
+        {
+            "name": "★★✩✩ **TWICE MINA** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681478499893290/woobot_template_20230515224825.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+
+"TWIC_DH": [
+        {
+            "name": "★★✩✩ **TWICE DAHYUN** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681478806093844/woobot_template_20230515224831.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+"TWIC_CY": [
+        {
+            "name": "★★✩✩ **TWICE CHAEYOUNG** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681479133241384/woobot_template_20230515224836.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
+    ],
+
+"TWIC_TZ": [
+        {
+            "name": "★★✩✩ **TWICE TZUYU** I CAN'T STOP ME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107681479670104094/woobot_template_20230515224842.png",
+            "theme": "I CAN'T STOP ME",
+            "inv": "★★✩✩✩ I CAN'T STOP ME"
+        }
     ]
 
 }
