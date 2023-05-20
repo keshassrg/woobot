@@ -546,6 +546,14 @@
         }
     ],
     
+    "XGLR_CC": [
+        {
+            "name": "★★✩✩ **XG COCONA** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902972643508235/COCONA.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    
     "XGLR_CS": [
         {
             "name": "★★✩✩ **XG CHISA** LEFT RIGHT",
@@ -586,6 +594,15 @@
         {
             "name": "★★✩✩ **XG JURIN** LEFT RIGHT",
             "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902973834690581/JURIN.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+
+"XGLR_MY": [
+        {
+            "name": "★★✩✩ **XG MAYA** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902974107336724/MAYA.png",
             "theme": "LEFT RIGHT",
             "inv": "★★✩✩✩ LEFT RIGHT"
         }
