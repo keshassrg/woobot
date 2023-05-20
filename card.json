@@ -401,5 +401,275 @@
             "theme": "UNFORGIVEN",
             "inv": "★★✩✩✩ UNFORGIVEN"
         }
+    ],
+    
+    "FFHI_AR": [
+        {
+            "name": "★✩✩✩ **FIFTY FIFTY ARAN** Higher",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902824081281176/AR.png",
+            "theme": "Higher",
+            "inv": "★✩✩✩✩ Higher"
+        }
+    ],
+    
+    "FFHI_KN": [
+        {
+            "name": "★✩✩✩ **FIFTY FIFTY KEENA** Higher",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902824307753024/KN.png",
+            "theme": "Higher",
+            "inv": "★✩✩✩✩ Higher"
+        }
+    ],
+    
+    "FFHI_SI": [
+        {
+            "name": "★✩✩✩ **FIFTY FIFTY SIO** Higher",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902824521666651/SI.png",
+            "theme": "Higher",
+            "inv": "★✩✩✩✩ Higher"
+        }
+    ],
+    
+    "FFHI_SN": [
+        {
+            "name": "★✩✩✩ **FIFTY FIFTY SAENA** Higher",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902824840450048/SN.png",
+            "theme": "Higher",
+            "inv": "★✩✩✩✩ Higher"
+        }
+    ],
+    
+    "GIQC_MY": [
+        {
+            "name": "★★✩✩ **(G)I-DLE MIYEON** Queencard",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107714889205682216/MY.png",
+            "theme": "Queencard",
+            "inv": "★★✩✩✩ Queencard"
+        }
+    ],
+    
+    "GIQC_MY": [
+        {
+            "name": "★★✩✩ **(G)I-DLE MIYEON** Queencard",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107714889205682216/MY.png",
+            "theme": "Queencard",
+            "inv": "★★✩✩✩ Queencard"
+        }
+    ],
+    
+    "GIQC_MN": [
+        {
+            "name": "★★✩✩ **(G)I-DLE MINNIE** Queencard",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107714888933068950/MN.png",
+            "theme": "Queencard",
+            "inv": "★★✩✩✩ Queencard"
+        }
+    ],
+    
+    "GIQC_SY": [
+        {
+            "name": "★★✩✩ **(G)I-DLE SOYEON** Queencard",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107714889750958230/SY.png",
+            "theme": "Queencard",
+            "inv": "★★✩✩✩ Queencard"
+        }
+    ],
+    "GIQC_YU": [
+        {
+            "name": "★★✩✩ **(G)I-DLE YUQI** Queencard",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107714890031960125/YQ.png",
+            "theme": "Queencard",
+            "inv": "★★✩✩✩ Queencard"
+        }
+    ],
+    
+    "GIQC_SH": [
+        {
+            "name": "★★✩✩ **(G)I-DLE SHUHUA** Queencard",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107714889524445307/SH.png",
+            "theme": "Queencard",
+            "inv": "★★✩✩✩ Queencard"
+        }
+    ],
+    
+    "IVEL_YJ": [
+        {
+            "name": "★✩✩✩ **IVE YUJIN** ELEVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107865392250110092/woobot_template_20230516000002.png",
+            "theme": "ELEVEN",
+            "inv": "★✩✩✩✩ ELEVEN"
+        }
+    ],
+    
+    "IVEL_WY": [
+        {
+            "name": "★✩✩✩ **IVE WONYOUNG** ELEVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107865390912123010/woobot_template_20230515235945.png",
+            "theme": "ELEVEN",
+            "inv": "★✩✩✩✩ ELEVEN"
+        }
+    ],
+    
+    "IVEL_RE": [
+        {
+            "name": "★✩✩✩ **IVE REI** ELEVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107865391444803734/woobot_template_20230515235951.png",
+            "theme": "ELEVEN",
+            "inv": "★✩✩✩✩ ELEVEN"
+        }
+    ],
+    
+    "IVEL_GA": [
+        {
+            "name": "★✩✩✩ **IVE GAEUL** ELEVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107865391683883129/woobot_template_20230515235956.png",
+            "theme": "ELEVEN",
+            "inv": "★✩✩✩✩ ELEVEN"
+        }
+    ],
+    
+    "IVEL_LI": [
+        {
+            "name": "★✩✩✩ **IVE LIZ** ELEVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107865391985864764/woobot_template_20230515235937.png",
+            "theme": "ELEVEN",
+            "inv": "★✩✩✩✩ ELEVEN"
+        }
+    ],
+    
+    "IVEL_LS": [
+        {
+            "name": "★✩✩✩ **IVE LEESEO** ELEVEN",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107865390413008896/woobot_template_20230515235930.png",
+            "theme": "ELEVEN",
+            "inv": "★✩✩✩✩ ELEVEN"
+        }
+    ],
+    
+    "XGLR_CS": [
+        {
+            "name": "★★✩✩ **XG CHISA** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902972400250901/CHISA.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+
+"XGLR_CC": [
+        {
+            "name": "★★✩✩ **XG COCONA** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902972643508235/COCONA.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+    
+    "XGLR_HR": [
+        {
+            "name": "★★✩✩ **XG HARVEY** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902972920344626/HARVEY.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+    
+    "XGLR_HN": [
+        {
+            "name": "★★✩✩ **XG HINATA** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902973180379146/HINATA.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+    
+    "XGLR_JU": [
+        {
+            "name": "★★✩✩ **XG JURIN** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902973834690581/JURIN.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+    
+    "K1WD_YJ": [
+        {
+            "name": "★✩✩✩ **Kep1er YUJIN** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743786160476180/woobot_template_20230518211118.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+     "K1WD_YE": [
+        {
+            "name": "★✩✩✩ **Kep1er YOUNGEUN** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743786521178163/woobot_template_20230518211110.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_YS": [
+        {
+            "name": "★✩✩✩ **Kep1er YESEO** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743786756046898/woobot_template_20230518211104.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_MA": [
+        {
+            "name": "★✩✩✩ **Kep1er MASHIRO** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743787053863042/woobot_template_20230518211051.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_DY": [
+        {
+            "name": "★✩✩✩ **Kep1er DAYEON** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743787339067412/woobot_template_20230518210928.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_XT": [
+        {
+            "name": "★✩✩✩ **Kep1er XIAOTING** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743787649433710/woobot_template_20230518211057.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_CH": [
+        {
+            "name": "★✩✩✩ **Kep1er CHAEHYUN** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743787901112370/woobot_template_20230518210921.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_HB": [
+        {
+            "name": "★✩✩✩ **Kep1er HUENING BAHIYYIH** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743788215676969/woobot_template_20230518210906.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
+    ],
+    
+    "K1WD_HK": [
+        {
+            "name": "★✩✩✩ **Kep1er HIKARU** WA DA DA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1108743788496683068/woobot_template_20230518210912.png",
+            "theme": "WA DA DA",
+            "inv": "★★✩✩✩ WA DA DA"
+        }
     ]
-    }
+
+}
