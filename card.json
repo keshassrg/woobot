@@ -591,10 +591,19 @@
         }
     ],
     
-    "XGLR_JU": [
+    "XGLR_JR": [
         {
             "name": "★★✩✩ **XG JURIN** LEFT RIGHT",
             "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902973834690581/JURIN.png",
+            "theme": "LEFT RIGHT",
+            "inv": "★★✩✩✩ LEFT RIGHT"
+        }
+    ],
+    
+    "XGLR_JU": [
+        {
+            "name": "★★✩✩ **XG JURIA** LEFT RIGHT",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107902973503356938/JURIA.png",
             "theme": "LEFT RIGHT",
             "inv": "★★✩✩✩ LEFT RIGHT"
         }
@@ -780,6 +789,6 @@
             "theme": "I CAN'T STOP ME",
             "inv": "★★✩✩✩ I CAN'T STOP ME"
         }
-    ]
+    ],
 
 }
