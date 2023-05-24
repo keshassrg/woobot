@@ -789,6 +789,167 @@
             "theme": "I CAN'T STOP ME",
             "inv": "★★✩✩✩ I CAN'T STOP ME"
         }
+    ],
+ "ENBM_HS": [
+        {
+            "name": "★★✩✩ **ENHYPEN HEESUNG** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223178158067752/woobot_template_20230522230848.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+     "ENBM_JY": [
+        {
+            "name": "★★✩✩ **ENHYPEN JAY** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223178401320960/woobot_template_20230522230853.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+     "ENBM_JK": [
+        {
+            "name": "★★✩✩ **ENHYPEN JAKE** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223178795593799/woobot_template_20230522230859.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+     "ENBM_SH": [
+        {
+            "name": "★★✩✩ **ENHYPEN SUNGHOON** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223179026288660/woobot_template_20230522230906.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+     "ENBM_SN": [
+        {
+            "name": "★★✩✩ **ENHYPEN SUNOO** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223179315679242/woobot_template_20230522230912.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+     "ENBM_JW": [
+        {
+            "name": "★★✩✩ **ENHYPEN JUNGWON** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223179537985546/woobot_template_20230522230919.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+     "ENBM_NK": [
+        {
+            "name": "★★✩✩ **ENHYPEN NI-KI** Bite Me",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110223179970007070/woobot_template_20230522230925.png?width=339&height=477",
+            "theme": "Bite Me",
+            "inv": "★★✩✩✩ Bite Me"
+        }
+    ],
+      "SCTB_SM": [
+        {
+            "name": "★★✩✩ **STAYC SUMIN** Teddy Bear",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227692244177057/woobot_template_20230522230952.png?width=339&height=477",
+            "theme": "Teddy Bear",
+            "inv": "★★✩✩✩ Teddy Bear"
+        }
+    ],
+         "SCTB_SI": [
+        {
+            "name": "★★✩✩ **STAYC SIEUN** Teddy Bear",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227692772663346/woobot_template_20230522230946.png?width=339&height=477",
+            "theme": "Teddy Bear",
+            "inv": "★★✩✩✩ Teddy Bear"
+        }
+    ],
+         "SCTB_IS": [
+        {
+            "name": "★★✩✩ **STAYC ISA** Teddy Bear",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227693087244368/woobot_template_20230522230940.png?width=339&height=477",
+            "theme": "Teddy Bear",
+            "inv": "★★✩✩✩ Teddy Bear"
+        }
+    ],
+         "SCTB_SE": [
+        {
+            "name": "★★✩✩ **STAYC SEEUN** Teddy Bear",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227693364060250/woobot_template_20230522230934.png?width=339&height=477",
+            "theme": "Teddy Bear",
+            "inv": "★★✩✩✩ Teddy Bear"
+        }
+    ],
+         "SCTB_YO": [
+        {
+            "name": "★★✩✩ **STAYC YOON** Teddy Bear",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227693682835567/woobot_template_20230522230929.png?width=339&height=477",
+            "theme": "Teddy Bear",
+            "inv": "★★✩✩✩ Teddy Bear"
+        }
+    ],
+         "SCTB_J": [
+        {
+            "name": "★★✩✩ **STAYC J** Teddy Bear",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227694072893551/woobot_template_20230522230924.png?width=339&height=477",
+            "theme": "Teddy Bear",
+            "inv": "★★✩✩✩ Teddy Bear"
+        }
+    ],
+             "DJPF_DY": [
+        {
+            "name": "★✩✩✩ **NCT DOJAEJUNG DOYOUNG** Perfume",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110321750346059817/DJJKS_DY.png?width=339&height=477",
+            "theme": "Perfume",
+            "inv": "★✩✩✩✩ Perfume"
+        }
+    ],
+                 "DJPF_JH": [
+        {
+            "name": "★✩✩✩ **NCT DOJAEJUNG JAEHYUN** Perfume",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110321750622879844/DJJKS_JH.png?width=339&height=477",
+            "theme": "Perfume",
+            "inv": "★✩✩✩✩ Perfume"
+        }
+    ],
+                 "DJPF_JW": [
+        {
+            "name": "★✩✩✩ **NCT DOJAEJUNG JUNGWOO** Perfume",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110321750924873798/DJJKS_JW.png?width=339&height=477",
+            "theme": "Perfume",
+            "inv": "★✩✩✩✩ Perfume"
+        }
+    ],
+             "BPHY_JS": [
+        {
+            "name": "★★✩✩ **BLACKPINK JISOO** How You Like That",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110619213837631558/woobot_template_20230523142110.png?width=339&height=477",
+            "theme": "How You Like That",
+            "inv": "★★✩✩✩ How You Like That"
+        }
+    ],
+            "BPHY_JN": [
+        {
+            "name": "★★✩✩ **BLACKPINK JENNIE** How You Like That",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110619214189961417/woobot_template_20230523142237.png?width=339&height=477",
+            "theme": "How You Like That",
+            "inv": "★★✩✩✩ How You Like That"
+        }
+    ],
+            "BPHY_RS": [
+        {
+            "name": "★★✩✩ **BLACKPINK ROSÉ** How You Like That",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110619214848467004/woobot_template_20230523142338.png?width=339&height=477",
+            "theme": "How You Like That",
+            "inv": "★★✩✩✩ How You Like That"
+        }
+    ],
+            "BPHY_LS": [
+        {
+            "name": "★★✩✩ **BLACKPINK LISA** How You Like That",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110619213837631558/woobot_template_20230523142110.png?width=339&height=477",
+            "theme": "How You Like That",
+            "inv": "★★✩✩✩ How You Like That"
+        }
     ]
+   
 
 }
