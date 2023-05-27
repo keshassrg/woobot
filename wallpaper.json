@@ -1,17 +1,50 @@
 {
   "wallpapers": [
     {
-      "KEP1ER_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1106951810201178142/kep1er_free.png?width=996&height=579",
+      "KEP1ER_FR": "https://media.discordapp.net/attachments/1055485183387774996/1106951810201178142/kep1er_free.png?width=996&height=579",
       "KEP1ER_TEXT": "`Free` **Kep1er** Background",
       
-      "REDVELVET_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1107327923859505272/redvelvet_free.png?width=996&height=579",
+      "REDVELVET_FR": "https://media.discordapp.net/attachments/1055485183387774996/1107327923859505272/redvelvet_free.png?width=996&height=579",
       "REDVELVET_TEXT": "`Free` **Red Velvet** Background",
       
-      "NCT127_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1107327924257960009/nct127_free.png?width=996&height=579",
+      "NCT127_FR": "https://media.discordapp.net/attachments/1055485183387774996/1107327924257960009/nct127_free.png?width=996&height=579",
       "NCT127_TEXT": "`Free` **NCT 127** Background",
       
-      "AESPA_FREE": "https://media.discordapp.net/attachments/1055485183387774996/1107328548026449981/aespa_free.png?width=996&height=579",
-      "AESPA_TEXT": "`Free` **aespa** Background"
+      "AESPA_FR": "https://media.discordapp.net/attachments/1055485183387774996/1107328548026449981/aespa_free.png?width=996&height=579",
+      "AESPA_TEXT": "`Free` **aespa** Background",
+      
+      "DOJAEJUNG_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020685003431936/dojaejung_free.png?width=996&height=579",
+      "DOJAEJUNG_TEXT": "`Free` **NCT DOJAEJUNG** Background",
+      
+      "ENHYPEN_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020685519335424/enhypen_free.png?width=996&height=579",
+      "ENHYPEN_TEXT": "`Free` **ENHYPEN** Background",
+      
+      "TWICE_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020685892624504/twice_free.png?width=996&height=579",
+      "TWICE_TEXT": "`Free` **TWICE** Background",
+      
+      "XG_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020686962171984/xg_free.png?width=996&height=579",
+      "XG_TEXT": "`Free` **XG** Background",
+      
+      "IDLE_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020687348052068/gidle_free.png?width=996&height=579",
+      "IDLE_TEXT": "`Free` **(G)I-DLE** Background",
+      
+      "FIFTYFIFTY_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020687972995214/fiftyfifty_free.png?width=996&height=579",
+      "FIFTYFIFTY_TEXT": "`Free` **FIFTY FIFTY** Background",
+      
+      "LESSERAFIM_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020688430178495/lesserafim_free.png?width=996&height=579",
+      "LESSERAFIM_TEXT": "`Free` **LE SSERAFIM** Background",
+      
+      "STAYC_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020688837021726/stayc_free.png?width=996&height=579",
+      "STAYC_TEXT": "`Free` **STAYC** Background",
+      
+      "TAEYEON_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020689315176448/taeyeon_free.png?width=996&height=579",
+      "TAEYEON_TEXT": "`Free` **TAEYEON** Background",
+      
+      "NMIXX_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020694952333322/nmixx_free.png?width=996&height=579",
+      "NMIXX_TEXT": "`Free` **NMIXX** Background",
+      
+      "BLACKPINK_FR": "https://media.discordapp.net/attachments/1055485183387774996/1112020950930694174/blackpink.png?width=996&height=579",
+      "BLACKPINK_TEXT": "`Free` **BLACKPINK** Background"
       
     }
       ]
