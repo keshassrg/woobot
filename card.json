@@ -1475,5 +1475,69 @@
             "theme": "Psycho",
             "inv": "★★✩✩✩ Psycho"
         }
+    ],
+    
+    "NDCG_MA": [
+        {
+            "name": "★★✩✩ **NCT DREAM MARK** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318244486713485/NDCW_MK.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
+    ],
+    
+    "NDCG_JN": [
+        {
+            "name": "★★✩✩ **NCT DREAM JENO** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318244713209856/NDCW_JN.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
+    ],
+    
+    "NDCG_JM": [
+        {
+            "name": "★★✩✩ **NCT DREAM JAEMIN** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318244973248532/NDCW_JM.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
+    ],
+    
+    
+    "NDCG_RJ": [
+        {
+            "name": "★★✩✩ **NCT DREAM RENJUN** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318245237493840/NDCW_RJ.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
+    ],
+    
+    "NDCG_HC": [
+        {
+            "name": "★★✩✩ **NCT DREAM HAECHAN** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318245505933412/NDCW_HC.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
+    ],
+    
+    "NDCG_CL": [
+        {
+            "name": "★★✩✩ **NCT DREAM CHENLE** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318250849468516/NDWC_CH.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
+    ],
+    
+    "NDCG_JS": [
+        {
+            "name": "★★✩✩ **NCT DREAM JISUNG** Chewing Gum",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110318251080159242/NDCW_JS.png",
+            "theme": "Chewing Gum",
+            "inv": "★★✩✩✩ Chewing Gum"
+        }
     ]
 }
