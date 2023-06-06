@@ -949,7 +949,531 @@
             "theme": "How You Like That",
             "inv": "★★✩✩✩ How You Like That"
         }
-    ]
+    ],
+    
+    "ITSN_YJ": [
+        {
+            "name": "★★✩✩ **ITZY YEJI** SNEAKERS",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1115469886689386556/ITSN_YJ.png",
+            "theme": "SNEAKERS",
+            "inv": "★★✩✩✩ SNEAKERS"
+        }
+    ],
+    
+    "ITSN_LI": [
+        {
+            "name": "★★✩✩ **ITZY LIA** SNEAKERS",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1115469886320283658/ITSN_LI.png",
+            "theme": "SNEAKERS",
+            "inv": "★★✩✩✩ SNEAKERS"
+        }
+    ],
+    
+    "ITSN_RY": [
+        {
+            "name": "★★✩✩ **ITZY RYUJIN** SNEAKERS",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1115469885993144430/ITSN_RY.png",
+            "theme": "SNEAKERS",
+            "inv": "★★✩✩✩ SNEAKERS"
+        }
+    ],
+    
+    "ITSN_CY": [
+        {
+            "name": "★★✩✩ **ITZY CHAERYEONG** SNEAKERS",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1115469885678551130/ITSN_CY.png",
+            "theme": "SNEAKERS",
+            "inv": "★★✩✩✩ SNEAKERS"
+        }
+    ],
+    
+     "ITSN_YN": [
+        {
+            "name": "★★✩✩ **ITZY YUNA** SNEAKERS",
+            "image": "https://media.discordapp.net/attachments/1055485183387774996/1115469885347205130/ITSN_YN.png",
+            "theme": "SNEAKERS",
+            "inv": "★★✩✩✩ SNEAKERS"
+        }
+    ],
+    
+    "VVBB_EU": [
+        {
+            "name": "★★✩✩ **VIVIZ EUNHA** BOP BOP!",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478245031297094/VVBB_EU.png",
+            "theme": "BOP BOP!",
+            "inv": "★★✩✩✩ BOP BOP!"
+        }
+    ],
+    
+    "VVBB_SB": [
+        {
+            "name": "★★✩✩ **VIVIZ SINB** BOP BOP!",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478244553130116/VVBB_SB.png",
+            "theme": "BOP BOP!",
+            "inv": "★★✩✩✩ BOP BOP!"
+        }
+    ],
+    
+    "VVBB_UM": [
+        {
+            "name": "★★✩✩ **VIVIZ UMJI** BOP BOP!",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478244121133186/VVBB_UJ.png",
+            "theme": "BOP BOP!",
+            "inv": "★★✩✩✩ BOP BOP!"
+        }
+    ],
+    
+    "BPBB_JS": [
+        {
+            "name": "★✩✩✩ **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478214157025330/BPBB_JS.png",
+            "theme": "BOOMBAYAH",
+            "inv": "★✩✩✩✩ BOOMBAYAH"
+        }
+    ],
+            "BPBB_JS": [
+        {
+            "name": "★✩✩✩ **BLACKPINK JISOO** BOOMBAYAH",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478214157025330/BPBB_JS.png",
+            "theme": "BOOMBAYAH",
+            "inv": "★✩✩✩✩ BOOMBAYAH"
+        }
+    ],
+            "BPBB_JN": [
+        {
+            "name": "★✩✩✩ **BLACKPINK JENNIE** BOOMBAYAH",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478213523677234/BPBB_JN.png",
+            "theme": "BOOMBAYAH",
+            "inv": "★✩✩✩✩ BOOMBAYAH"
+        }
+    ],
+            "BPBB_RS": [
+        {
+            "name": "★✩✩✩ **BLACKPINK ROSÉ** BOOMBAYAH",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478213058101339/BPBB_RS.png",
+            "theme": "BOOMBAYAH",
+            "inv": "★✩✩✩✩ BOOMBAYAH"
+        }
+    ],
+            "BPBB_LS": [
+        {
+            "name": "★✩✩✩ **BLACKPINK LISA** BOOMBAYAH",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478212647075890/BPBB_LS.png",
+            "theme": "BOOMBAYAH",
+            "inv": "★✩✩✩✩ BOOMBAYAH"
+        }
+    ],
+    
+    "NMYD_HW": [
+        {
+            "name": "★★✩✩✩ **NMIXX HAEWON** Young, Dumb, Stupid",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478210432466984/NMYD_HW.png",
+            "theme": "Young, Dumb, Stupid",
+            "inv": "★★✩✩✩✩ Young, Dumb, Stupid"
+        }
+    ],
+    
+    "NMYD_BA": [
+        {
+            "name": "★★✩✩✩ **NMIXX BAE** Young, Dumb, Stupid",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478211430727750/NMYD_BA.png",
+            "theme": "Young, Dumb, Stupid",
+            "inv": "★★✩✩✩✩ Young, Dumb, Stupid"
+        }
+    ],
+    
+    "NMYD_JW": [
+        {
+            "name": "★★✩✩✩ **NMIXX JIWOO** Young, Dumb, Stupid",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478211871113216/NMYD_JW.png",
+            "theme": "Young, Dumb, Stupid",
+            "inv": "★★✩✩✩✩ Young, Dumb, Stupid"
+        }
+    ],
+    
+    "NMYD_KJ": [
+        {
+            "name": "★★✩✩✩ **NMIXX KYUJIN** Young, Dumb, Stupid",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478212231831592/NMYD_KY.png",
+            "theme": "Young, Dumb, Stupid",
+            "inv": "★★✩✩✩✩ Young, Dumb, Stupid"
+        }
+    ],
+    
+    "NMYD_LL": [
+        {
+            "name": "★★✩✩✩ **NMIXX LILY** Young, Dumb, Stupid",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478209966915594/NMYD_LI.png",
+            "theme": "Young, Dumb, Stupid",
+            "inv": "★★✩✩✩✩ Young, Dumb, Stupid"
+        }
+    ],
+    
+    "NMYD_SY": [
+        {
+            "name": "★★✩✩✩ **NMIXX SULLYOON** Young, Dumb, Stupid",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478210881265675/NMYD_SY.png",
+            "theme": "Young, Dumb, Stupid",
+            "inv": "★★✩✩✩✩ Young, Dumb, Stupid"
+        }
+    ],
    
+    "GITB_MY": [
+        {
+            "name": "★★✩✩ **(G)I-DLE MIYEON** TOMBOY",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478157991092225/GITB_MY.png",
+            "theme": "TOMBOY",
+            "inv": "★★✩✩✩ TOMBOY"
+        }
+    ],
+    
+    "GITB_MN": [
+        {
+            "name": "★★✩✩ **(G)I-DLE MINNIE** TOMBOY",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478156325953696/GITB_MN.png",
+            "theme": "TOMBOY",
+            "inv": "★★✩✩✩ TOMBOY"
+        }
+    ],
+    
+    "GITB_SY": [
+        {
+            "name": "★★✩✩ **(G)I-DLE SOYEON** TOMBOY",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478157416464514/GITB_SY.png",
+            "theme": "TOMBOY",
+            "inv": "★★✩✩✩ TOMBOY"
+        }
+    ],
+    "GITB_YU": [
+        {
+            "name": "★★✩✩ **(G)I-DLE YUQI** TOMBOY",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478156837666886/GITB_YQ.png",
+            "theme": "TOMBOY",
+            "inv": "★★✩✩✩ TOMBOY"
+        }
+    ],
+    
+    "GITB_SH": [
+        {
+            "name": "★★✩✩ **(G)I-DLE SHUHUA** TOMBOY",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478158435696671/GITB_SH.png",
+            "theme": "TOMBOY",
+            "inv": "★★✩✩✩ TOMBOY"
+        }
+    ],
+    
+    "LSFL_SK": [
+        {
+            "name": "★✩✩✩ **LE SSERAFIM SAKURA** FEARLESS",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478094149599232/LSFL_SK.png",
+            "theme": "FEARLESS",
+            "inv": "★✩✩✩✩ FEARLESS"
+        }
+    ],
+    
+    "LSFL_KC": [
+        {
+            "name": "★✩✩✩ **LE SSERAFIM KIM CHAEWON** FEARLESS",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478094581600287/LSFL_KC.png",
+            "theme": "FEARLESS",
+            "inv": "★✩✩✩✩ FEARLESS"
+        }
+    ],
+    
+    "LSFL_HY": [
+        {
+            "name": "★✩✩✩ **LE SSERAFIM HUH YUNJIN** FEARLESS",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107654868799344650/LSFL_HY.png",
+            "theme": "FEARLESS",
+            "inv": "★✩✩✩✩ FEARLESS"
+        }
+    ],
+    
+    "LSFL_KZ": [
+        {
+            "name": "★✩✩✩ **LE SSERAFIM KAZUHA** FEARLESS",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478093340086332/LSFL_KA.png",
+            "theme": "FEARLESS",
+            "inv": "★✩✩✩✩ FEARLESS"
+        }
+    ],
+    
+    "LSFL_HE": [
+        {
+            "name": "★✩✩✩ **LE SSERAFIM HONG EUNCHAE** FEARLESS",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478092996165713/LSFL_HE.png",
+            "theme": "FEARLESS",
+            "inv": "★✩✩✩✩ FEARLESS"
+        }
+    ],
 
+    "XDHD_GI": [
+        {
+            "name": "★✩✩✩ **Xdinary Heroes Gun-il** Happy Death Day",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478131793461310/XHHD_GI.png",
+            "theme": "Happy Death Day",
+            "inv": "★✩✩✩✩ Happy Death Day"
+        }
+    ],
+    
+    "XDHD_JS": [
+        {
+            "name": "★✩✩✩ **Xdinary Heroes Jungsu** Happy Death Day",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478131407593502/XHHD_JS.png",
+            "theme": "Happy Death Day",
+            "inv": "★✩✩✩✩ Happy Death Day"
+        }
+    ],
+    
+    "XDHD_JS": [
+        {
+            "name": "★✩✩✩ **Xdinary Heroes Gaon** Happy Death Day",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478131076247653/XHHD_GA.png",
+            "theme": "Happy Death Day",
+            "inv": "★✩✩✩✩ Happy Death Day"
+        }
+    ],
+    
+    "XDHD_JH": [
+        {
+            "name": "★✩✩✩ **Xdinary Heroes Jun Han** Happy Death Day",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478130665193582/XHHD_JH.png",
+            "theme": "Happy Death Day",
+            "inv": "★✩✩✩✩ Happy Death Day"
+        }
+    ],
+    
+    "XDHD_OD": [
+        {
+            "name": "★✩✩✩ **Xdinary Heroes O.De** Happy Death Day",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478130266742784/XHHD_OD.png",
+            "theme": "Happy Death Day",
+            "inv": "★✩✩✩✩ Happy Death Day"
+        }
+    ],
+    
+    "IVLD_YJ": [
+        {
+            "name": "★★✩✩ **IVE YUJIN** LOVE DIVE",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478039728496783/IVLD_YJ.png",
+            "theme": "LOVE DIVE",
+            "inv": "★★✩✩✩ LOVE DIVE"
+        }
+    ],
+    
+    "IVLD_WY": [
+        {
+            "name": "★★✩✩ **IVE WONYOUNG** LOVE DIVE",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478040252776449/IVLD_WY.png",
+            "theme": "LOVE DIVE",
+            "inv": "★★✩✩✩ LOVE DIVE"
+        }
+    ],
+    
+    "IVLD_RE": [
+        {
+            "name": "★★✩✩ **IVE REI** LOVE DIVE",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478039267127386/IVLD_RE.png",
+            "theme": "LOVE DIVE",
+            "inv": "★★✩✩✩ LOVE DIVE"
+        }
+    ],
+    
+    "IVLD_GA": [
+        {
+            "name": "★★✩✩ **IVE GAEUL** LOVE DIVE",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478041125191781/IVLD_GA.png",
+            "theme": "LOVE DIVE",
+            "inv": "★★✩✩✩ LOVE DIVE"
+        }
+    ],
+    
+    "IVLD_LI": [
+        {
+            "name": "★★✩✩ **IVE LIZ** LOVE DIVE",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478038742827018/IVLD_LI.png",
+            "theme": "LOVE DIVE",
+            "inv": "★★✩✩✩ LOVE DIVE"
+        }
+    ],
+    
+    "IVLD_LS": [
+        {
+            "name": "★★✩✩ **IVE LEESEO** LOVE DIVE",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478040676413520/IVLD_LS.png",
+            "theme": "LOVE DIVE",
+            "inv": "★★✩✩✩ LOVE DIVE"
+        }
+    ],
+    
+    "TXSG_YJ": [
+        {
+            "name": "★★✩✩ **TOMORROW X TOGETHER YEONJUN** Sugar Rush Ride",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478014487187526/TXSR_YJ.png",
+            "theme": "Sugar Rush Ride",
+            "inv": "★★✩✩✩ Sugar Rush Ride"
+        }
+    ],
+    
+    "TXSG_SB": [
+        {
+            "name": "★★✩✩ **TOMORROW X TOGETHER SOOBIN** Sugar Rush Ride",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478015384768632/TXSR_SB.png",
+            "theme": "Sugar Rush Ride",
+            "inv": "★★✩✩✩ Sugar Rush Ride"
+        }
+    ],
+    
+    "TXSG_BG": [
+        {
+            "name": "★★✩✩ **TOMORROW X TOGETHER BEOMGYU** Sugar Rush Ride",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478016232017950/TXSR_BG.png",
+            "theme": "Sugar Rush Ride",
+            "inv": "★★✩✩✩ Sugar Rush Ride"
+        }
+    ],
+    
+    "TXSG_TH": [
+        {
+            "name": "★★✩✩ **TOMORROW X TOGETHER TAEHYUN** Sugar Rush Ride",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478014948544532/TXSR_TH.png",
+            "theme": "Sugar Rush Ride",
+            "inv": "★★✩✩✩ Sugar Rush Ride"
+        }
+    ],
+    
+    "TXSG_HK": [
+        {
+            "name": "★★✩✩ **TOMORROW X TOGETHER HUENING KAI** Sugar Rush Ride",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478015841931284/TXSR_HK.png",
+            "theme": "Sugar Rush Ride",
+            "inv": "★★✩✩✩ Sugar Rush Ride"
+        }
+    ],
+    
+    "NJAT_MJ": [
+        {
+            "name": "★✩✩✩ **NewJeans MINJI** Attention",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478278820597760/NJAT_MJ.png",
+            "theme": "Attention",
+            "inv": "★✩✩✩✩ Attention"
+        }
+    ],
+    
+    "NJAT_HN": [
+        {
+            "name": "★✩✩✩ **NewJeans HANNI** Attention",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478278422147073/NJAT_HN.png",
+            "theme": "Attention",
+            "inv": "★✩✩✩✩ Attention"
+        }
+    ],
+    
+    "NJAT_DA": [
+        {
+            "name": "★✩✩✩ **NewJeans DANIELLE** Attention",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478277637799966/NJAT_DA.png",
+            "theme": "Attention",
+            "inv": "★✩✩✩✩ Attention"
+        }
+    ],
+    
+    "NJAT_HR": [
+        {
+            "name": "★✩✩✩ **NewJeans HAERIN** Attention",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478277058990191/NJAT_HR.png",
+            "theme": "Attention",
+            "inv": "★✩✩✩✩ Attention"
+        }
+    ],
+    
+    "CI45_BJ": [
+        {
+            "name": "★★✩✩ **CIX BAE JIN YOUNG** 458",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478247724023859/CI45_BJ.png",
+            "theme": "458",
+            "inv": "★★✩✩✩ 458"
+        }
+    ],
+    
+    "CI45_BX": [
+        {
+            "name": "★★✩✩ **CIX BX** 458",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478247069732894/CI45_BX.png",
+            "theme": "458",
+            "inv": "★★✩✩✩ 458"
+        }
+    ],
+    
+    "CI45_HS": [
+        {
+            "name": "★★✩✩ **CIX HYUN SUK** 458",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478246511886438/CI45_HS.png",
+            "theme": "458",
+            "inv": "★★✩✩✩ 458"
+        }
+    ],
+    
+    "CI45_HS": [
+        {
+            "name": "★★✩✩ **CIX SEONG HUN** 458",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478246021156874/CI45_SH.png",
+            "theme": "458",
+            "inv": "★★✩✩✩ 458"
+        }
+    ],
+    
+    "CI45_YH": [
+        {
+            "name": "★★✩✩ **CIX YONG HEE** 458",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478245589123173/CI45_YH.png",
+            "theme": "458",
+            "inv": "★★✩✩✩ 458"
+        }
+    ],
+    
+    "RVPS_IR": [
+        {
+            "name": "★★✩✩ **Red Velvet IRENE** Psycho",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478014101295235/RVPS_IR.png",
+            "theme": "Psycho",
+            "inv": "★★✩✩✩ Psycho"
+        }
+    ],
+    
+    "RVPS_SG": [
+        {
+            "name": "★★✩✩ **Red Velvet SEULGI** Psycho",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478013635743894/RVPS_SG.png",
+            "theme": "Psycho",
+            "inv": "★★✩✩✩ Psycho"
+        }
+    ],
+    
+    "RVPS_WD": [
+        {
+            "name": "★★✩✩ **Red Velvet WENDY** Psycho",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478013182742598/RVPS_WD.png",
+            "theme": "Psycho",
+            "inv": "★★✩✩✩ Psycho"
+        }
+    ],
+    
+    "RVPS_JO": [
+        {
+            "name": "★★✩✩ **Red Velvet JOY** Psycho",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478012792680509/RVPS_JO.png",
+            "theme": "Psycho",
+            "inv": "★★✩✩✩ Psycho"
+        }
+    ],
+    
+    "RVPS_YR": [
+        {
+            "name": "★★✩✩ **Red Velvet YERI** Psycho",
+            "image": "https://media.discordapp.net/attachments/1115477957364953169/1115478012381646848/RVPS_YR.png",
+            "theme": "Psycho",
+            "inv": "★★✩✩✩ Psycho"
+        }
+    ]
 }
