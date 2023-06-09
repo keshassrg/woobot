@@ -1548,5 +1548,50 @@
             "theme": "Chewing Gum",
             "inv": "★✩✩✩✩ Chewing Gum"
         }
+    ],
+    
+    "NJDT_MJ": [
+        {
+            "name": "★★✩✩ **NewJeans MINJI** Ditto",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115943431630503976/woobot_template_20230607175850.png",
+            "theme": "Ditto",
+            "inv": "★★✩✩✩ Ditto"
+        }
+    ],
+    
+    "NJDT_HN": [
+        {
+            "name": "★★✩✩ **NewJeans HANNI** Ditto",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115943431932481597/woobot_template_20230607175803.png",
+            "theme": "Ditto",
+            "inv": "★★✩✩✩ Ditto"
+        }
+    ],
+    
+    "NJDT_DA": [
+        {
+            "name": "★★✩✩ **NewJeans DANIELLE** Ditto",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115943432301584434/woobot_template_20230607175943.png",
+            "theme": "Ditto",
+            "inv": "★★✩✩✩ Ditto"
+        }
+    ],
+    
+    "NJDT_HR": [
+        {
+            "name": "★★✩✩ **NewJeans HAERIN** Ditto",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115943432595193866/woobot_template_20230607180012.png",
+            "theme": "Ditto",
+            "inv": "★★✩✩✩ Ditto"
+        }
+    ],
+    
+    "NJDT_HY": [
+        {
+            "name": "★★✩✩ **NewJeans HYEIN** Ditto",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115943432934920263/woobot_template_20230607175916.png",
+            "theme": "Ditto",
+            "inv": "★★✩✩✩ Ditto"
+        }
     ]
 }
