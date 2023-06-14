@@ -1593,5 +1593,69 @@
             "theme": "Ditto",
             "inv": "★★✩✩✩ Ditto"
         }
+    ],
+      "F9MN_SR": [
+        {
+            "name": "★★✩✩ **fromis_9 SAEROM** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929388324757594/Untitled750_20230513200552_1_39.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_HY": [
+        {
+            "name": "★★✩✩ **fromis_9 HAYOUNG** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929385569112176/Untitled750_20230513200552_1_46.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_JW": [
+        {
+            "name": "★★✩✩ **fromis_9 JIWON** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929385959161907/Untitled750_20230513200552_1_45.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_JS": [
+        {
+            "name": "★★✩✩ **fromis_9 JISUN** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929386307309618/Untitled750_20230513200552_1_44.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_SY": [
+        {
+            "name": "★★✩✩ **fromis_9 SEOYEON** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929386634444861/Untitled750_20230513200552_1_43.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_CY": [
+        {
+            "name": "★★✩✩ **fromis_9 CHAEYOUNG** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929387175518280/Untitled750_20230513200552_1_42.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_NG": [
+        {
+            "name": "★★✩✩ **fromis_9 NAGYUNG** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929387657875476/Untitled750_20230513200552_1_41.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
+    ],
+         "F9MN_JH": [
+        {
+            "name": "★★✩✩ **fromis_9 JIHEON** #menow",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115929388014370936/Untitled750_20230513200552_1_40.png?width=339&height=477",
+            "theme": "#menow",
+            "inv": "★★✩✩✩ #menow"
+        }
     ]
 }
