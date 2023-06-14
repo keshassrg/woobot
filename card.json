@@ -1812,5 +1812,93 @@
             "theme": "reputation",
             "inv": "★★✩✩✩ reputation"
         }
+    ],
+     "TSTE_SL": [
+        {
+            "name": "★★★✩ **Taylor Swift** The Eras Tour",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115550238409764894/woobot_cards_20230606155633.png?width=339&height=477",
+            "theme": "The Eras Tour",
+            "inv": "★★★✩✩ The Eras Tour"
+        }
+    ],
+    "MKCH_SL": [
+        {
+            "name": "★✩✩✩ **MARK** Child",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110359672445222943/MKCH_MK.png",
+            "theme": "Child",
+            "inv": "★✩✩✩ Child"
+        }
+    ],
+"MKGH_SL": [
+        {
+            "name": "★★✩✩  **MARK** Golden Hour",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110359672675897464/MKGH_MK.png",
+            "theme": "Golden Hour",
+            "inv": "★★✩✩ Golden Hour"
+        }
+    ],
+"MKWK_SL": [
+        {
+            "name": "★★★✩  **MARK** W Korea Magazine",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110359672893997176/MKWK_MK.png",
+            "theme": "W Korea Magazine",
+            "inv": "★★★✩ W Korea Magazine"
+        }
+    ],
+    "IULF_SL": [
+        {
+            "name": "★✩✩✩ **IU** LAST FLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110031580363227196/IULF_IU.png",
+            "theme": "LAST FLOWER",
+            "inv": "★✩✩✩ LAST FLOWER"
+        }
+    ],
+"IULC_SL": [
+        {
+            "name": "★★✩✩  **IU** LILAC",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110031580644266164/IULC_IU.png",
+            "theme": "LILAC",
+            "inv": "★★✩✩ LILAC"
+        }
+    ],
+"IUBB_SL": [
+        {
+            "name": "★★✩✩  **IU** BBIBBI",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110031581088841819/IUBB_IU.png ",
+            "theme": "BBIBBI",
+            "inv": "★★✩✩ BBIBBI"
+        }
+    ],
+"IUVK_SL": [
+        {
+            "name": "★★★✩  **IU** VOGUE KOREA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110031580862353408/IUVK_IU.png",
+            "theme": "VOGUE KOREA",
+            "inv": "★★★✩ VOGUE KOREA"
+        }
+    ],
+     "HSFD_SL": [
+        {
+            "name": "★✩✩✩ **HAN SEUNG WOO** FADE",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109846914729521223/HSW-1.png",
+            "theme": "FADE",
+            "inv": "★✩✩✩✩ FADE"
+        }
+    ],
+"HSFM_SL": [
+        {
+            "name": "★★★✩  **HAN SEUNG WOO** FAME",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109846914473664512/HSW.png",
+            "theme": "FAME",
+            "inv": "★★✩✩✩ FAME"
+        }
+    ],
+"HSLM_SL": [
+        {
+            "name": "★★★✩  **HAN SEUNG WOO** 1st Look Magazine",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109846914943418409/HSW-2.png",
+            "theme": "1st Look Magazine",
+            "inv": "★★★✩✩ 1st Look Magazine"
+        }
     ]
 }
