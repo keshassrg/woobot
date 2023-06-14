@@ -1753,6 +1753,70 @@
             "theme": "S-Class",
             "inv": "★★✩✩✩ S-Class"
         }
+    ],
+                            "WMPP_SY": [
+        {
+            "name": "★★✩✩ **Weki Meki SUYEON** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946322638409758/Untitled750_20230513200552_1_51.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_EL": [
+        {
+            "name": "★★✩✩ **Weki Meki ELLY** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946322416107550/Untitled750_20230513200552_1_52.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_YJ": [
+        {
+            "name": "★★✩✩ **Weki Meki YOOJUNG** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946322156077186/Untitled750_20230513200552_1_54.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_DY": [
+        {
+            "name": "★★✩✩ **Weki Meki DOYEON** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946321770188851/Untitled750_20230513200552_1_55.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_SE": [
+        {
+            "name": "★★✩✩ **Weki Meki SEI** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946323909296269/Untitled750_20230513200552_1_47.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_LU": [
+        {
+            "name": "★★✩✩ **Weki Meki LUA** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946323074629653/Untitled750_20230513200552_1_50.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_RN": [
+        {
+            "name": "★★✩✩ **Weki Meki RINA** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946323393380452/Untitled750_20230513200552_1_49.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
+    ],
+                                "WMPP_LC": [
+        {
+            "name": "★★✩✩ **Weki Meki LUCY** Picky Picky",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115946323653431326/Untitled750_20230513200552_1_48.png?width=339&height=477",
+            "theme": "Picky Picky",
+            "inv": "★★✩✩✩ Picky Picky"
+        }
     ]
     
 }
