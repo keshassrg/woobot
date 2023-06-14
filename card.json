@@ -1657,5 +1657,102 @@
             "theme": "#menow",
             "inv": "★★✩✩✩ #menow"
         }
+    ],
+            "MAPD_SI": [
+        {
+            "name": "★✩✩✩ **MAVE: SIU:** PANDORA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947116540461096/woobot_cards_20230607181134.png?width=339&height=477",
+            "theme": "PANDORA",
+            "inv": "★✩✩✩✩ PANDORA"
+        }
+    ],
+                "MAPD_ZN": [
+        {
+            "name": "★✩✩✩ **MAVE: ZENA:** PANDORA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947116787933184/woobot_cards_20230607181127.png?width=339&height=477",
+            "theme": "PANDORA",
+            "inv": "★✩✩✩✩ PANDORA"
+        }
+    ],
+                "MAPD_TR": [
+        {
+            "name": "★✩✩✩ **MAVE: TYRA:** PANDORA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947117073154128/woobot_cards_20230607181119.png?width=339&height=477",
+            "theme": "PANDORA",
+            "inv": "★✩✩✩✩ PANDORA"
+        }
+    ],
+                "MAPD_MT": [
+        {
+            "name": "★✩✩✩ **MAVE: MARTY:** PANDORA",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947116263645306/woobot_cards_20230607181142.png?width=339&height=477",
+            "theme": "PANDORA",
+            "inv": "★✩✩✩✩ PANDORA"
+        }
+    ],
+                    "SKSC_BC": [
+        {
+            "name": "★★✩✩ **Stray Kids BANG CHAN** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947634818031707/woobot_template_20230607181627.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_LK": [
+        {
+            "name": "★★✩✩ **Stray Kids LEE KNOW** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947635115831396/woobot_template_20230607181616.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_CB": [
+        {
+            "name": "★★✩✩ **Stray Kids CHANGBIN** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947635413618819/woobot_template_20230607181607.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_HJ": [
+        {
+            "name": "★★✩✩ **Stray Kids HYUNJIN** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947635673669632/woobot_template_20230607181556.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_HA": [
+        {
+            "name": "★★✩✩ **Stray Kids HAN** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947635937914900/woobot_template_20230607181549.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_FE": [
+        {
+            "name": "★★✩✩ **Stray Kids FELIX** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947636218925116/woobot_template_20230607181543.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_SM": [
+        {
+            "name": "★★✩✩ **Stray Kids SEUNGMIN** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947636516724756/woobot_template_20230607181530.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
+    ],
+                        "SKSC_IN": [
+        {
+            "name": "★★✩✩ **Stray Kids I.N** S-Class",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115947636793552988/woobot_template_20230607181524.png?width=339&height=477",
+            "theme": "S-Class",
+            "inv": "★★✩✩✩ S-Class"
+        }
     ]
+    
 }
