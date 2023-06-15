@@ -86,7 +86,20 @@
       "ADYA_TEXT": "`Free` **ADYA** Background",
 
       "ATEEZ_FR": "https://media.discordapp.net/attachments/1115942041139040277/1116053598359531520/ATZ-BG.png",
-      "ATEEZ_TEXT": "`Free` **ATEEZ** Background"
+      "ATEEZ_TEXT": "`Free` **ATEEZ** Background",
+
+      "TAYLORSWIFT_FR": "https://media.discordapp.net/attachments/1055485183387774996/1118850848051712040/taylorswift_free.png",
+      "TAYLORSWIFT_TEXT": "`Free` **Taylor Swift** Background",  
+      
+      "IU_FR": "https://media.discordapp.net/attachments/1055485183387774996/1118850223637270609/Untitled382_20230615183032.png",
+      "IU_TEXT": "`Free` **IU** Background", 
+      
+      "HANSEUNGWOO_FR": "https://media.discordapp.net/attachments/1055485183387774996/1118846133981163540/HSW-BG.png",
+      "HANSEUNGWOO_TEXT": "`Free` **HAN SEUNG WOO** Background",  
+      
+      "MARK_FR": "https://media.discordapp.net/attachments/1055485183387774996/1118850223268167710/Untitled382_20230615183044.png",
+      "MARK_TEXT": "`Free` **MARK** Background"
+      
     }
       ]
                              }
