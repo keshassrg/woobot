@@ -1956,5 +1956,103 @@
             "theme": "Pirate",
             "inv": "★★✩✩✩ Pirate"
         }
+    ],
+    "BNOA_SH": [
+        {
+            "name": "★✩✩✩  **BOYNEXTDOOR SUNGHO** One And Only",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157575250870372/BNOY_SH.png",
+            "theme": "One And Only",
+            "inv": "★✩✩✩✩ One And Only"
+        }
+    ],
+"BNOA_RW": [
+        {
+            "name": "★✩✩✩  **BOYNEXTDOOR RIWOO** One And Only",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157575540289576/BNOY_RW.png",
+            "theme": "One And Only",
+            "inv": "★✩✩✩✩ One And Only"
+        }
+    ],
+"BNOA_JH": [
+        {
+            "name": "★✩✩✩  **BOYNEXTDOOR JAEHYUN** One And Only",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157575892598876/BNOY_JH.png",
+            "theme": "One And Only",
+            "inv": "★✩✩✩✩ One And Only"
+        }
+    ],
+"BNOA_TS": [
+        {
+            "name": "★✩✩✩  **BOYNEXTDOOR TAESAN** One And Only",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157576207183872/BNOY_TS.png",
+            "theme": "One And Only",
+            "inv": "★✩✩✩✩ One And Only"
+        }
+    ],
+"BNOA_LH": [
+        {
+            "name": "★✩✩✩  **BOYNEXTDOOR LEEHAN** One And Only",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157576492400680/BNOY_LH.png",
+            "theme": "One And Only",
+            "inv": "★✩✩✩✩ One And Only"
+        }
+    ],
+"BNOA_WH": [
+        {
+            "name": "★✩✩✩  **BOYNEXTDOOR WOONHAK** One And Only",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157576777596948/BNOY_WH.png",
+            "theme": "One And Only",
+            "inv": "★✩✩✩✩ One And Only"
+        }
+    ],
+    "SCBM_SM": [
+        {
+            "name": "★★✩✩  **STAYC SUMIN** BEAUTIFUL MONSTER",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157724547125268/woobot_template_20230515213711.png",
+            "theme": "BEAUTIFUL MONSTER",
+            "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
+        }
+    ],
+    "SCBM_SI": [
+        {
+            "name": "★★✩✩  **STAYC SIEUN** BEAUTIFUL MONSTER",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157725201453156/woobot_template_20230515213756.png",
+            "theme": "BEAUTIFUL MONSTER",
+            "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
+        }
+    ],
+    "SCBM_IS": [
+        {
+            "name": "★★✩✩  **STAYC ISA** BEAUTIFUL MONSTER",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157725482459218/woobot_template_20230515213723.png",
+            "theme": "BEAUTIFUL MONSTER",
+            "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
+        }
+    ],
+    "SCBM_SE": [
+        {
+            "name": "★★✩✩  **STAYC SEEUN** BEAUTIFUL MONSTER",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157725851553792/woobot_template_20230515213806.png",
+            "theme": "BEAUTIFUL MONSTER",
+            "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
+        }
+    ],
+    "SCBM_YO": [
+        {
+            "name": "★★✩✩  **STAYC YOON** BEAUTIFUL MONSTER",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157726245834833/woobot_template_20230515213819.png",
+            "theme": "BEAUTIFUL MONSTER",
+            "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
+        }
+    ],
+    "SCBM_J": [
+        {
+            "name": "★★✩✩  **STAYC J** BEAUTIFUL MONSTER",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119157726602338334/woobot_template_20230515213824.png",
+            "theme": "BEAUTIFUL MONSTER",
+            "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
+        }
     ]
+    
+    
 }
