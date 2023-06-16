@@ -2052,7 +2052,77 @@
             "theme": "BEAUTIFUL MONSTER",
             "inv": "★★✩✩✩ BEAUTIFUL MONSTER"
         }
+    ],
+    "BPSD_JS": [
+        {
+            "name": "★★✩✩  **BLACKPINK JISOO** Shut Down",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158861232885810/Untitled750_20230513200552_1_27.png",
+            "theme": "Shut Down",
+            "inv": "★★✩✩✩ Shut Down"
+        }
+    ],
+    "BPSD_JN": [
+        {
+            "name": "★★✩✩  **BLACKPINK JENNIE** Shut Down",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158860905713684/Untitled750_20230513200552_1_28.png",
+            "theme": "Shut Down",
+            "inv": "★★✩✩✩ Shut Down"
+        }
+    ],
+    "BPSD_RS": [
+        {
+            "name": "★★✩✩  **BLACKPINK ROSÉ** Shut Down",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158860561797130/Untitled750_20230513200552_1_29.png",
+            "theme": "Shut Down",
+            "inv": "★★✩✩✩ Shut Down"
+        }
+    ],
+    "BPSD_LS": [
+        {
+            "name": "★★✩✩  **BLACKPINK LISA** Shut Down",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158860289159249/Untitled750_20230513200552_1_30.png",
+            "theme": "Shut Down",
+            "inv": "★★✩✩✩ Shut Down"
+        }
+    ],
+    "ITNS_YJ": [
+        {
+            "name": "★★✩✩  **ITZY YEJI** Not Shy",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158952320569364/woobot_template_20230521120436.png",
+            "theme": "Not Shy",
+            "inv": "★★✩✩✩ Not Shy"
+        }
+    ],
+    "ITNS_LI": [
+        {
+            "name": "★★✩✩  **ITZY LIA** Not Shy",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158952677089280/woobot_template_20230521120442.png",
+            "theme": "Not Shy",
+            "inv": "★★✩✩✩ Not Shy"
+        }
+    ],
+    "ITNS_RY": [
+        {
+            "name": "★★✩✩  **ITZY RYUJIN** Not Shy",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158953033601055/woobot_template_20230521120448.png",
+            "theme": "Not Shy",
+            "inv": "★★✩✩✩ Not Shy"
+        }
+    ],
+    "ITNS_CY": [
+        {
+            "name": "★★✩✩  **ITZY CHAERYEONG** Not Shy",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158953339793418/woobot_template_20230521120453.png",
+            "theme": "Not Shy",
+            "inv": "★★✩✩✩ Not Shy"
+        }
+    ],
+    "ITNS_YN": [
+        {
+            "name": "★★✩✩  **ITZY YUNA** Not Shy",
+            "image": "https://media.discordapp.net/attachments/1119157384246468608/1119158953679527937/woobot_template_20230521120459.png",
+            "theme": "Not Shy",
+            "inv": "★★✩✩✩ Not Shy"
+        }
     ]
-    
-    
 }
