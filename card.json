@@ -2124,5 +2124,58 @@
             "theme": "Not Shy",
             "inv": "★★✩✩✩ Not Shy"
         }
+    ],
+"NDGM_MK": [
+        {
+            "name": "★★✩✩✩ **NCT  DREAM Mark** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278570783281274/woobot_template_20230522154950.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩ Glitch Mode"
+        }
+    ],
+    "NDGM_RJ": [
+        {
+            "name": "★★✩✩ **NCT  DREAM Renjun** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278572033200209/woobot_template_20230522154800.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩✩ Glitch Mode"
+        }
+    ],
+    "NDGM_JN": [
+        {
+            "name": "★★✩✩ **NCT  DREAM Jeno** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278572364533840/woobot_template_20230522154729.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩✩ Glitch Mode"
+        }
+    ],
+    "NDGM_HC": [
+        {
+            "name": "★★✩✩ **NCT  DREAM Haechan** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278571357917204/woobot_template_20230522154903.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩✩ Glitch Mode"
+        }
+    ], "NDGM_JM": [
+        {
+            "name": "★★✩✩ **NCT  DREAM Jaemin** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278571102052523/woobot_template_20230522154932.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩✩ Glitch Mode"
+        }
+    ], "NDGM_CL": [
+        {
+            "name": "★★✩✩ **NCT  DREAM Chenle** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278571768942733/woobot_template_20230522154818.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩✩ Glitch Mode"
+        }
+    ], "NDGM_JS": [
+        {
+            "name": "★★✩✩ **NCT  DREAM Jisung** Glitch Mode",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110278570418393118/woobot_template_20230522155021.png",
+            "theme": "Glitch Mode",
+            "inv": "★★✩✩✩ Glitch Mode"
+        }
     ]
 }
