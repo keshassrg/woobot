@@ -2177,5 +2177,44 @@
             "theme": "Glitch Mode",
             "inv": "★★✩✩✩ Glitch Mode"
         }
+    ],
+  "NJOK_MJ": [
+        {
+            "name": "★★★✩ **NewJeans Minji** O!Oi Korea",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227519677935756/woobot_template_20230522232112.png",
+            "theme": "O!Oi Korea",
+            "inv": "★★★✩✩ O!Oi Korea"
+        }
+    ],
+    "NJOK_HN": [
+        {
+            "name": "★★★✩ **NewJeans Hanni** O!Oi Korea",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227519950569603/woobot_template_20230522232131.png",
+            "theme": "O!Oi Korea",
+            "inv": "★★★✩✩ O!Oi Korea"
+        }
+    ],
+    "NJOK_DA": [
+        {
+            "name": "★★★✩ **NewJeans Danielle** O!Oi Korea",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227520193830962/woobot_template_20230522232153.png",
+            "theme": "O!Oi Korea",
+            "inv": "★★★✩✩ O!Oi Korea"
+        }
+    ],
+    "NJOK_HR": [
+        {
+            "name": "★★★✩ **NewJeans Haerin** O!Oi Korea",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227520449675474/woobot_template_20230519230011.png",
+            "theme": "O!Oi Korea",
+            "inv": "★★★✩✩ O!Oi Korea"
+        }
+    ], "NJOK_HY": [
+        {
+            "name": "★★★✩ **NewJeans Hyein** O!Oi Korea",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110227520709738537/woobot_template_20230522232211.png",
+            "theme": "O!Oi Korea",
+            "inv": "★★★✩✩ O!Oi Korea"
+        }
     ]
 }
