@@ -1908,5 +1908,53 @@
             "theme": "1st Look Magazine",
             "inv": "★★★✩✩ 1st Look Magazine"
         }
+    ],
+    "EGPR_EU": [
+        {
+            "name": "★★✩✩  **EVERGLOW E:U** Pirate",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116539380115456091/EU.png?width=339&height=477",
+            "theme": "Pirate",
+            "inv": "★★✩✩✩ Pirate"
+        }
+    ],
+"EGPR_SH": [
+        {
+            "name": "★★✩✩  **EVERGLOW SIHYEON** Pirate",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116539380383887430/SI.png?width=339&height=477",
+            "theme": "Pirate",
+            "inv": "★★✩✩✩ Pirate"
+        }
+    ], 
+"EGPR_MI": [
+        {
+            "name": "★★✩✩  **EVERGLOW MIA** Pirate",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116539380656504912/MI.png?width=339&height=477",
+            "theme": "Pirate",
+            "inv": "★★✩✩✩ Pirate"
+        }
+    ],
+"EGPR_OD": [
+        {
+            "name": "★★✩✩  **EVERGLOW ONDA** Pirate",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116539380937539624/ON.png?width=339&height=477",
+            "theme": "Pirate",
+            "inv": "★★✩✩✩ Pirate"
+        }
+    ],
+"EGPR_AS": [
+        {
+            "name": "★★✩✩  **EVERGLOW AISHA** Pirate",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116539381176610886/AI.png?width=339&height=477",
+            "theme": "Pirate",
+            "inv": "★★✩✩✩ Pirate"
+        }
+    ],
+"EGPR_YR": [
+        {
+            "name": "★★✩✩  **EVERGLOW YIREN** Pirate",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116539381440839690/YR.png?width=339&height=477",
+            "theme": "Pirate",
+            "inv": "★★✩✩✩ Pirate"
+        }
     ]
 }
