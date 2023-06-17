@@ -2269,5 +2269,61 @@
             "theme": "Drunk-Dazed MV Behind",
             "inv": "★★★✩✩ Drunk-Dazed MV Behind"
         }
-    ], 
+    ],
+"VVLS_EU": [
+        {
+            "name": "★★★★ **VIVIZ Eunha** Love Love Love Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110067414609182801/EU4.png",
+            "theme": "Love Love Love Stage",
+            "inv": "★★★★✩ Love Love Love Stage"
+        }
+    ],
+    "VVLS_SB": [
+        {
+            "name": "★★★★ **VIVIZ  SinB**Love Love Love Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110067414948917279/SB4.png",
+            "theme": "Love Love Love Stage",
+            "inv": "★★★★✩ Love Love Love Stage"
+        }
+    ],
+    "VVLS_UM": [
+        {
+            "name": "★★★★ **VIVIZ Umji** Love Love Love Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1110067415431254137/UM4.png",
+            "theme": "Love Love Love Stage",
+            "inv": "★★★★✩ Love Love Love Stage"
+        }
+    ],
+"BPHS_JS": [
+        {
+            "name": "★★★★ **Blackpink Jisoo** How You Like That Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109773169755181056/Untitled750_20230513200552_1_38.png",
+            "theme": "How You Like That Stage",
+            "inv": "★★★★✩ How You Like That Stage"
+        }
+    ],
+    "BPHS_JN": [
+        {
+            "name": "★★★★ **Blackpink Jennie**How You Like That Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109773169973268573/Untitled750_20230513200552_1_37.png",
+            "theme": "How You Like That Stage",
+            "inv": "★★★★✩How You Like That Stage"
+        }
+    ],
+    "BPHS_RS": [
+        {
+            "name": "★★★★ **Blackpink Rose**How You Like That Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109773170292039721/Untitled750_20230513200552_1_36.png",
+            "theme": "How You Like That Stage",
+            "inv": "★★★★✩ How You Like That Stage"
+        }
+    ],
+  "BPHS_LS": [
+        {
+            "name": "★★★★ **Blackpink Lisa** How You Like That Stage",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1109773170606608444/Untitled750_20230513200552_1_35.png",
+            "theme": "How You Like That Stagee",
+            "inv": "★★★★✩ How You Like That Stage"
+        }
+ ]
 }
