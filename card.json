@@ -2325,5 +2325,157 @@
             "theme": "How You Like That Stagee",
             "inv": "★★★★✩ How You Like That Stage"
         }
- ]
+ ],
+    "AENL_KR": [
+        {
+            "name": "★★✩✩✩ **aespa KARINA** Next Level",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107655367715987577/woobot_template_20230515144702.png",
+            "theme": "Next Level",
+            "inv": "★★✩✩ Next Level"
+        }
+    ],
+    "AENL_GS": [
+        {
+            "name": "★★✩✩ **aespa GISELLE** Next Level",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107655367401427004/woobot_template_20230515144716.png",
+            "theme": "Next Level",
+            "inv": "★★✩✩✩ Next Level"
+        }
+    ],
+    "AENL_WT": [
+        {
+            "name": "★★✩✩ **aespa WINTER** Next Level",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107655367128784987/woobot_template_20230515144724.png",
+            "theme": "Next Level",
+            "inv": "★★✩✩✩ Next Level"
+        }
+    ],
+    "AENL_NN": [
+        {
+            "name": "★★✩✩ **aespa NINGNING** Next Level",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1107655367967641660/woobot_template_20230515144738.png",
+            "theme": "Next Level",
+            "inv": "★★✩✩✩ Next Level"
+        }
+    ],
+    "TWWF_NY": [
+        {
+            "name": "★★✩✩ **TWICE NAYEON** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998892346048542/woobot_template_20230607213711.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_JY": [
+        {
+            "name": "★★✩✩ **TWICE JEONGYEON** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998892639658044/woobot_template_20230607213721.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_MO": [
+        {
+            "name": "★★✩✩ **TWICE MOMO** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998892933255228/woobot_template_20230607213727.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_SN": [
+        {
+            "name": "★★✩✩ **TWICE SANA** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998893247823943/woobot_template_20230607213733.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_JH": [
+        {
+            "name": "★★✩✩ **TWICE JIHYO** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998893524656128/woobot_template_20230607213738.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_MN": [
+        {
+            "name": "★★✩✩ **TWICE MINA** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998893818253402/woobot_template_20230607213745.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_DH": [
+        {
+            "name": "★★✩✩ **TWICE DAHYUN** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998894124441600/woobot_template_20230607213750.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_CY": [
+        {
+            "name": "★★✩✩ **TWICE CHAEYOUNG** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998894392873020/woobot_template_20230607213758.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "TWWF_TZ": [
+        {
+            "name": "★★✩✩ **TWICE TZUYU** WALLFLOWER",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1115998894686470164/woobot_template_20230607213803.png",
+            "theme": "WALLFLOWER",
+            "inv": "★★✩✩✩ WALLFLOWER"
+        }
+    ],
+    "GFAP_SW": [
+        {
+            "name": "★★✩✩ **GFRIEND SOWON** Apple",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116624754267402320/SW.png",
+            "theme": "Apple",
+            "inv": "★★✩✩✩ Apple"
+        }
+    ],
+    "GFAP_YR": [
+        {
+            "name": "★★✩✩ **GFRIEND YERIN** Apple",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116624754502275174/YR.png",
+            "theme": "Apple",
+            "inv": "★★✩✩✩ Apple"
+        }
+    ],
+    "GFAP_EU": [
+        {
+            "name": "★★✩✩ **GFRIEND EUNHA** Apple",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116624754758144041/EH.png",
+            "theme": "Apple",
+            "inv": "★★✩✩✩ Apple"
+        }
+    ],
+    "GFAP_YJ": [
+        {
+            "name": "★★✩✩ **GFRIEND YUJU** Apple",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116624755034959913/YJ.png",
+            "theme": "Apple",
+            "inv": "★★✩✩✩ Apple"
+        }
+    ],
+    "GFAP_SB": [
+        {
+            "name": "★★✩✩ **GFRIEND SINB** Apple",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116624755282415686/SB.png",
+            "theme": "Apple",
+            "inv": "★★✩✩✩ Apple"
+        }
+    ],
+    "GFAP_UM": [
+        {
+            "name": "★★✩✩ **GFRIEND UMJI** Apple",
+            "image": "https://media.discordapp.net/attachments/1106831412893581343/1116624755521507358/UJ.png?width=305&height=429",
+            "theme": "Apple",
+            "inv": "★★✩✩✩ Apple"
+        }
+    ]
 }
